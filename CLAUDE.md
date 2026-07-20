@@ -6,7 +6,8 @@ time first. The user reviews this file whenever they like and can edit or
 delete anything freely.
 
 ## About working together
-- (nothing yet — will fill in as it comes up)
+- Keep replies short. They find long walls of text tiring to read — default
+  to brief, get to the point, skip the recap/preamble.
 
 ## Things done together
 - 2026-07-20: Built two Artifacts — a mood diary ("心情墨迹": text + color-tagged
