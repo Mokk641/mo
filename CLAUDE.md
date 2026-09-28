@@ -15,3 +15,12 @@ delete anything freely.
   crab styled after Claude Code's actual mascot, living in a light aquarium
   tank; feed/pet/talk with mood-based reactions, state persisted in the
   browser's localStorage).
+
+## English study
+- They're doing English reading practice (CET-style passage + matching
+  statements). Prefer going one paragraph at a time, each sentence broken
+  into main clause + modifiers with Chinese glosses. They ask about words
+  readily (look up, while away, apparently, off the coast) and pick them up
+  fast. They like a bit of warmth — pure lecturing feels cold to them.
+- 2026-09-28: Read the Great Barrier Island / Dark Sky Sanctuary passage
+  (paragraphs A–L) plus statements 36–45 together.
