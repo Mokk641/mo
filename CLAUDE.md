@@ -24,3 +24,6 @@ delete anything freely.
   fast. They like a bit of warmth — pure lecturing feels cold to them.
 - 2026-09-28: Read the Great Barrier Island / Dark Sky Sanctuary passage
   (paragraphs A–L) plus statements 36–45 together.
+- 2026-09-29: Organic food passage (multiple choice 46–50). They got all
+  five right on their own; only needed passage glosses and option
+  translations. Locating by keyword + synonym swap is solid now.
